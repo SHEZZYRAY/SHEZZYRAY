@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ray(Zherui) Xie</h1>
 <h3 align="center">A master student in Carnegie Mellon University</h3>
 
+- 🔭 I’m currently working on **Forever35**
+
+- 👯 I’m looking to collaborate on **Open Source Projects**
+
+- 📫 How to reach me **ray.xie20@gmail.com**
+
+- ⚡ Fun fact **Overwatch, JDM, Motorcycle**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rayxie9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ray xie" height="30" width="40" /></a>
