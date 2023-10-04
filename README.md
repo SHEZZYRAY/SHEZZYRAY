@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ray(Zherui) Xie</h1>
 <h3 align="center">A master student in Carnegie Mellon University</h3>
 
-- 🔭 I’m currently working on **Forever35**
+- 🔭 I’m currently working on **Mysterious Project**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
